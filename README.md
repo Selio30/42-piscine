@@ -14,40 +14,38 @@ Este repositorio contiene codigicación desarrollada en [42 Málaga](https://www
  ## Skills developed at C Piscine
  
  ### Hard-skills
- 
-        # C Language
-                El idioma principal que se aprende en 42 Piscine es C: manejo de variables,
-                punteros, asignación de memoria, macros, así como la creación de funciones y
-                programas, incluido el uso y la creación de librerias y Makefiles.
-        
-        # Shell
-                Los primeros días del bootcamp están dedicados a aprender comandos en shell básicos
-                e intermedios para navegar sin problemas a través de la terminal.
-        
-        # Git
-                Todos los proyectos se envían a través de un repositorio git remoto, lo que exige
-                que los estudiantes se sientan cómodos con dicho sistema.
+    # C Language
+            El idioma principal que se aprende en 42 Piscine es C: manejo de variables,
+            punteros, asignación de memoria, macros, así como la creación de funciones y
+            programas, incluido el uso y la creación de librerias y Makefiles.
+
+    # Shell
+            Los primeros días del bootcamp están dedicados a aprender comandos en shell básicos
+            e intermedios para navegar sin problemas a través de la terminal.
+
+    # Git
+            Todos los proyectos se envían a través de un repositorio git remoto, lo que exige
+            que los estudiantes se sientan cómodos con dicho sistema.
 
 ### Soft-skills
+    # Autoaprendizaje y proactividad
+            En 42, el autoaprendizaje es el núcleo de su metodología de aprendizaje entre pares.
+            No hay profesores en absoluto; el proceso de aprendizaje se basa en googlear, preguntar
+            a tus compañeros y asistir a clases que los propios alumnos convocan. Así, aunque cada
+            alumno aprenda a su propio ritmo, nadie se queda atrás.
 
-        # Autoaprendizaje y proactividad
-                En 42, el autoaprendizaje es el núcleo de su metodología de aprendizaje entre pares.
-                No hay profesores en absoluto; el proceso de aprendizaje se basa en googlear, preguntar
-                a tus compañeros y asistir a clases que los propios alumnos convocan. Así, aunque cada
-                alumno aprenda a su propio ritmo, nadie se queda atrás.
-                
-        # Trabajo en equipo
-                Los fines de semana se propone un proyecto en equipo de 48h llamado "Rush": un grupo de
-                3 o 4 miembros elegidos al azar por el sistema de la escuela debe desarrollar en colaboración
-                una aplicación completamente operativa. El gran desafío aquí es igualar los diferentes niveles
-                de conocimiento y encontrar una metodología de trabajo común que permita a todos los
-                miembros del equipo contribuir al proyecto.
-                
-        # Gestión del tiempo y resiliencia
-                La escuela está abierta 24/7. Así, los llamados "pisciners" son libres de trabajar cuando lo
-                deseen, lo que exige una excelente gestión del tiempo y resilencia para no "ahogarse" en medio
-                de la enorme carga de trabajo que exige el programa de 26 días sin parar.
-                
+    # Trabajo en equipo
+            Los fines de semana se propone un proyecto en equipo de 48h llamado "Rush": un grupo de
+            3 o 4 miembros elegidos al azar por el sistema de la escuela debe desarrollar en colaboración
+            una aplicación completamente operativa. El gran desafío aquí es igualar los diferentes niveles
+            de conocimiento y encontrar una metodología de trabajo común que permita a todos los
+            miembros del equipo contribuir al proyecto.
+
+    # Gestión del tiempo y resiliencia
+            La escuela está abierta 24/7. Así, los llamados "pisciners" son libres de trabajar cuando lo
+            deseen, lo que exige una excelente gestión del tiempo y resilencia para no "ahogarse" en medio
+            de la enorme carga de trabajo que exige el programa de 26 días sin parar.
+
 ## Curriculum
 
 La siguiente tabla presenta el plan de estudios de C Piscine en el orgen cronológico en el que fue completado por mí; el orden de las materias completadas y el nivel alcanzado correspondiente puede variar entre los estudiantes.
