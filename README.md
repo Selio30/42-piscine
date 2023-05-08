@@ -65,5 +65,5 @@ La siguiente tabla presenta el plan de estudios de C Piscine en el orgen cronol√
 |11	|[C 03](./c_piscine_c_03)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 3 - 96%	|
 |12	|[C 02](./c_piscine_c_02)			|C			|about 1 day	|100 XP		|65% :heavy_check_mark:		|level 4 - 31%	|
 |13	|[C 04](./c_piscine_c_04)			|C			|about 1 day	|100 XP		|70% :heavy_check_mark:	|level 4 - 68%	|
-|14	|[C 06](./c_piscine_c_06)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 5 - 05%	|
+|14	|[C 06](./c_piscine_c_06)			|C			|about 1 day	|100 XP		|70% :heavy_check_mark:	|level 5 - 05%	|
 |15	|Final Exam							|C			|about 8 hours	|375 XP		|36% :heavy_check_mark:		|level 5 - 68%	|
