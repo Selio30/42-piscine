@@ -53,11 +53,11 @@ La siguiente tabla presenta el plan de estudios de C Piscine en el orgen cronol√
 |#	|SUBJECT							|LANGUAGE	|DURATION		|EXPERIENCE	|STATUS						|ATTAINED LEVEL	|
 |:-:|:--								|:-:		|--:			|--:		|--:						|:--			|
 |01	|[Shell 00](./c_piscine_shell_00)	|Shell		|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 0 - 88%	|
-|02	|Exam 00							|C			|about 4 hours	|225 XP		|0% :x:		|level 0 - 88%	|
+|02	|Exam 00							|C			|about 4 hours	|225 XP		|0% :x:		|-				|
 |03	|[Rush 00](./c_piscine_rush_00)		|C			|2 days			|150 XP		|0% :x:						|-				|
 |04	|[Shell 01](./c_piscine_shell_01)	|Shell		|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 1 - 67%	|
 |05	|[C 00](./c_piscine_c_00)			|C			|about 1 day	|100 XP		|85% :heavy_check_mark:	|level 2 - 29%	|
-|06	|Exam 01							|C			|about 4 hours	|225 XP		|16% :x:		|level 2 - 29%	|
+|06	|Exam 01							|C			|about 4 hours	|225 XP		|16% :x:		|-				|
 |07	|Rush 01		|C			|2 days			|150 XP		|0% :x:						|-				|
 |08	|[C 01](./c_piscine_c_01)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 2 - 98%	|
 |09	|Exam 02							|C			|about 4 hours	|225 XP		|28% :heavy_check_mark:		|level 3 - 36%	|
