@@ -1,17 +1,37 @@
-# C Piscine @ 42 Málaga
+<h1 align="center">
+  42-piscine
+</h1>
 
-Este repositorio contiene codigicación desarrollada en [42 Málaga](https://www.42malaga.com/) C bootcamp (también conocido como 'Piscina'), del 06/mar/2023 al 31/mar/2023.
+<p align="center">
+  <b><i>Este repositorio contiene codigicación desarrollada en <a href="https://www.42malaga.com/">42 Málaga</a> C bootcamp (también conocido como 'Piscina')</i></b><br>
+  Fecha de inicio: 06/03/2023.  Fecha de finalización: 31/03/2023
+</p>
 
-## About 42
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Selio30/42-piscine?color=blueviolet" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/Selio30/42-piscine?color=blueviolet" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/Selio30/42-piscine?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Selio30/42-piscine?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Selio30/42-piscine?color=brightgreen" />
+</p>
 
-  42 es una iniciativa de educación global que propone una nueva forma de aprender tecnología: sin profesores,
-  sin aulas, estudiantes aprendiendo de sus compañeros (peer to peer learning), con una metodología
-  que desarrolla habilidades informáticas y para la vida. El cursus 42 es gratuito para quien sea
-  aprobado en su proceso de selección. El llamado "C Piscine", una bootcamp de programación en C de
-  26 días, es la última etapa del proceso de selección para convertirse en estudiante de 42.
- 
- 
- ## Skills developed at C Piscine
+<h3 align="center">
+  <a href="#%EF%B8%8F-sobre-42">Sobre 42</a>
+	<span> · </span>
+	<a href="#%EF%B8%8F-habilidades-desarrolladas-en-42piscine">Habilidades desarrolladas en 42piscine</a>
+	<span> · </span>
+	<a href="#-42s-galaxy-curriculum">42's galaxy (curriculum)</a> 
+</h3>
+
+## 🗣️ Sobre 42
+
+	42 es una iniciativa de educación global que propone una nueva forma de aprender tecnología: sin profesores,
+	sin aulas, estudiantes aprendiendo de sus compañeros (peer to peer learning), con una metodología
+	que desarrolla habilidades informáticas y para la vida. El cursus 42 es gratuito para quien sea
+	aprobado en su proceso de selección. El llamado "C Piscine", una bootcamp de programación en C de
+	26 días, es la última etapa del proceso de selección para convertirse en estudiante de 42.
+
+ ## 🛠️ Habilidades desarrolladas en 42piscine
  
  ### Hard-skills
     # C Language
@@ -46,7 +66,9 @@ Este repositorio contiene codigicación desarrollada en [42 Málaga](https://www
             deseen, lo que exige una excelente gestión del tiempo y resilencia para no "ahogarse" en medio
             de la enorme carga de trabajo que exige el programa de 26 días sin parar.
 
-## Curriculum
+## 🌌 42's galaxy (curriculum)
+
+![42's galaxy](galaxy.png)
 
 La siguiente tabla presenta el plan de estudios de C Piscine en el orgen cronológico en el que fue completado por mí; el orden de las materias completadas y el nivel alcanzado correspondiente puede variar entre los estudiantes.
 
